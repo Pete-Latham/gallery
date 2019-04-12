@@ -1,0 +1,30 @@
+/*
+ Theme Name:   Twenty Sixteen Child
+ Theme URI:    http://example.com/twenty-sixteen-child/
+ Description:  Twenty Sixteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentysixteen
+ Version:      1.0.0
+ Text Domain:  twenty-sixteen-child
+*/
+
+/* .pglRed {
+  background-color: green;
+}
+
+.front-page-text {
+  color: Red;
+}
+
+.team-background {
+  background-color: darkseagreen;
+} */
+
+.companyLogo {
+  width: 150px;
+}
+
+.companyDetails {
+  margin-left: 20px;
+}
